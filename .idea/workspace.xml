@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0ad60eda-aab6-4a0c-8dbf-ceed73bbbdc1" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/00aa8aed-5998-4061-a333-80f1bbb5147e-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/01c63c4d-fecb-48ac-9f71-05bb5ab592ae-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/03012395-a00f-42bf-9e92-7c1a8d419396-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/0307f205-0f32-41f5-8353-e93755e6b5fe-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/0322cbe1-7276-416a-8fc2-c073784dcdf9-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/034c587a-98c0-42bd-9cd2-fa60fe5c9b32-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/04f801e4-5d50-48aa-9857-5e3ff51dda2e-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/05792997-3371-448f-a0f0-27d416c7971d-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/05bb470c-d28e-4755-a101-4b24e3355817-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/0601e764-ffde-499d-80d5-6f75c00a89d4-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/060f79e9-9968-4ef8-9c01-8554ef54e530-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/063c40eb-92ef-4057-b2d9-3c48635859fe-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/0653697c-65e7-4013-90e8-91d60ce5952a-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/078c2758-0a0c-40ff-a465-b864c41cab59-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/085a2ded-7488-4b80-96e2-67e9085ff9e1-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/086b0d90-92e3-45df-b474-baab8199a138-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/09450056-43f2-4dd2-8f69-f8c149e7b077-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/099936be-8d09-4c94-b5a9-528c773fd320-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/0a8710c9-ec52-413f-86a7-00a87d28d0ec-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/0b7f07fd-b8b3-46e9-bfbb-7afb65442e5b-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/0c551429-9de0-4e05-9c9c-c84fe08fe720-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/0d38642e-64d2-45bb-a732-878887de7fcf-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/0f167d5d-9972-4765-8b23-eeeb6bfeae28-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/102a82bf-827e-4255-9309-22e654ffc947-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/10859efc-8722-4625-a449-13cf9244a288-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/1356ed6a-7903-4b6a-9322-a95be5be61a9-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/1456bcf5-7adf-4a7e-8ae2-ea6002390538-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/16c7689a-b750-44db-ad6e-31e0d7f058e2-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/17a3e17e-5d9e-40de-9700-e40269455115-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/184fbae2-072f-420f-92f8-eb1b4c0ee513-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/19315328-c18a-40b3-8c42-e1ea2f9d0a40-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/1a655698-06f7-4d72-b4cb-9a910b7b8d35-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/1a73f4fe-b706-4972-b31c-d900d793a62b-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/1adc5621-7816-4678-8c10-85789c288d10-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/2267eed6-a7bc-4df8-9588-78f093483a39-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/246c0af6-d4bf-4baa-9334-718905eafa9e-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/24e91fe7-5671-4925-9634-ca0b3ae3a682-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/255ab01b-68b7-47c4-810c-aa18123366f0-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/25e94e65-013f-4b0a-9977-71c7133cf76c-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/26309579-d11a-49ef-9010-d69290a3ee69-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/265673d6-1c5b-4940-8751-1f9672e8ae53-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/26865adf-e6ca-4f8c-b26d-9c79e971edeb-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/26ae18fe-dcc6-4560-a7ac-97ec7f517bf7-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/2732cb3e-22cf-42fb-af6e-c07642c1f092-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/27ef27c7-7823-42b9-b7da-4b2ccd5189c5-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/2861acc6-3262-49ca-a956-52d1255b50b6-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/2955a18f-fa33-450b-aaff-05484ca9ced7-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/2ab91bdd-f586-4216-a317-2f74cffcb0bc-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/2ad60d8c-e1e6-4501-adef-e1cfd15b5f3c-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/2bc3b8c4-1f79-4838-b717-b7e30d476c71-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/2d1102ab-2ac9-4c0b-9133-681894ed6742-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/2dc83353-7d4e-44f2-9c8b-0c143223c1b6-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/2f181958-b3a5-43c7-96ad-f161fdc92178-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/30fd5198-60a1-481b-b651-95ebe56c364f-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/32a27830-afcf-420c-b58e-ea4bbd77a73f-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/3324cf74-82c1-4577-a336-3ab60cbc4d3c-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/33768ea7-d8fe-4a32-845d-733737a200e8-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/33acefd9-0681-4bf3-bbb3-ae164b05ec31-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/33ada224-1781-420c-a2bb-470bcb199a56-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/34c7d74f-bf19-4473-9335-a0000e838473-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/36855647-59cb-41a3-932d-b2d038704d9f-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/370b7bf1-8948-40c9-b986-8b996b8f5a88-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/37a3fb41-1178-4120-946f-4e838dd558f1-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/3a89871b-965e-40de-9be5-e200f9c8d93b-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/3ba77926-c429-4f7e-bd5c-2dee2c8e4a43-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/3e8fe2b9-b822-4294-886f-3439f508cbce-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/3ff8bc59-edbe-4b7e-abc0-18e8198182ca-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/3ffe2b02-28bd-45f9-8c5b-3b10ad147904-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/408bee51-9356-4af1-8f12-b6f7aa76a4c4-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/40b4de09-4299-48b4-add8-3e9e34965f14-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/40d36a68-a40e-475d-a373-aa7081aac5d1-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/412bcf2f-b8ec-4093-a59d-6a6475884882-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/417bdc2d-1a70-410e-808a-09f77809d0e6-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/44384132-ed0f-4deb-bfed-cd06170d2efb-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/475e2c9e-c680-4328-8c39-0887f423ce25-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/47c6d87e-6739-48d2-9107-d2eb46a5385a-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/486cc0a8-6f88-4645-8392-45351bfbf2f5-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/4b75d3cb-bba2-4334-96b1-6a7f1a9883f5-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/4bd15684-da79-45ee-ae9c-b525ea5cdab0-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/4de3d617-60e6-41af-a7b0-6813cabf67f2-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/4e8e8aed-5247-4d5a-963a-9434065cea28-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/4e93b0e7-c531-4036-b05e-d4ad991231ed-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/509038b8-3973-4f99-abf6-0622b554ee1c-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/51760cb0-b832-4e7f-b263-b38d94b0e8ec-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/519801d8-c688-4e59-b0a0-61766e0a5605-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/52616956-43a9-43c1-be6e-36b939f05f37-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/52d91941-df4f-48ea-9833-7776f67cc6e2-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/53180323-9bf5-4341-b77e-ae6971f08381-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/54033471-d60d-4145-b8d3-a396389fb868-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/549c83a0-98ba-4cf6-a469-c46e43dc1783-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/5660feeb-8d5f-406f-a575-01b9459d9650-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/57db90ad-234a-4ac7-a45a-be0ab48d62a1-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/5a7459fa-7ff3-4f22-a493-56ef9e6ad7e1-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/5c6b7a28-525c-4b10-8369-21f324c2c4cf-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/5cb3feda-f4b2-4574-8fa0-181674c7df6a-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/5cb65576-e51b-4394-ab4f-899c08e5634e-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/5ea14924-7d32-4cd3-bbd4-4253f838628f-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/5eed895a-6432-451b-9393-4d2d603c74a5-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/5ef30f44-7924-445e-be84-39939ffc26f8-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/601b1d7a-c019-4460-bf0b-75fc45e6c865-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/6032d334-9f09-43e0-a9b9-f8f8148e16fa-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/619ab95f-d65d-46b5-85ce-41ae1be6278f-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/623b9a1b-8b89-47f1-8db6-f1aa3cbb8af9-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/647de223-4151-406c-b868-06e944fa6a68-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/660e7226-4613-4b66-a460-b4abc7cbe71c-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/667140aa-88eb-4efa-a4a5-2c6648cbbfb3-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/66ab6ff7-cb0b-4882-9c50-9ab2859f29bd-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/66bf1e32-3449-4fb2-9c3f-817e4d14eb06-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/67b4affb-deed-4167-8be2-07e3c43c2953-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/690cc730-3cdf-4406-bd5d-cd673b16c158-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/694b3ecf-5a5e-4d65-91d0-d4279f8c49b2-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/6a807bd9-2806-4a01-a5b6-6a6bb941dafc-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/6b6d3ae9-d332-480f-b2a4-c2b45feb4968-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/6b7f591c-d2be-4ee4-91e7-a0033c3f826c-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/6c674132-83fa-48aa-b4bb-511c6a92c48c-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/6cc0318c-1950-4282-adc2-e172078b08b2-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/6d9edd0d-cb8c-492e-a181-988cdc9e39a2-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/6ec7be32-7796-4f50-a2ba-759dfe9d7a23-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/6ee59c3c-2253-4156-a9e5-d07306c3344f-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/6f9ba4bf-1f6f-4113-ad45-fdfb51ceacb0-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/6fcb5b24-c339-42f5-af2e-2db9dc7aacbf-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/70f470c0-1cc6-4219-8db6-546f342ba23c-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/71c29265-b9b2-479e-a105-9aedba9a3743-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/72db95d5-6012-4297-a786-d0fa0c1478f7-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/73cb7ff3-814f-4d5a-9029-52f626ed778d-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/73e3c1cc-adb9-49cc-9683-161e237f56d3-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/751f6889-5766-4d6e-9da2-1daf0137dfff-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/76b2c1a7-1be9-4e9d-bbb8-c77a1581355d-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/7737aa6d-ea56-48d4-a6cf-747a027d45e4-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/77527c4c-8e36-41fa-b85f-0e1cee1b4988-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/787912de-6a11-4c30-9092-5bb46580e3c6-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/788fcf3b-721d-49b5-9969-f3774fcacbab-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/78c59aba-09dc-41aa-b595-649334aeecd8-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/7a0d2820-7abf-457d-8ef5-d18f83c5b0c6-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/7a8e6033-2ca9-4298-915d-815383126a34-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/7b236573-058f-42df-bc09-e4f54bafdb2e-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/7b614df6-2302-4a45-9af7-2c88fceae37c-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/7ccd3502-a055-4760-b72e-0bcde2fc286d-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/7d2f7974-1325-4d1e-98ca-958aabc499d3-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/7da9b99b-48b2-4f1f-806e-ca06c2175334-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/7ef1a81a-f372-4d8d-8c97-31e1d563c18d-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/8016b86e-4231-4451-8a1b-926abfc6cf3b-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/82629a64-4c4f-4a45-bfa9-a68fc68e8749-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/834f30f9-f696-4adc-931e-b9b9046960d9-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/83700cc5-4cbe-4c7c-bb3c-af47031b4087-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/838ca7e4-7767-4508-8b3b-af96ef7315fc-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/84c5f069-9b96-4c4c-be28-0a2b1757566a-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/852a69bd-9519-4bef-a814-0f60b77978c1-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/8708dc4f-5d54-42ab-9f92-465672235e72-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/87b55247-a4df-4a6a-b453-fbcb99582467-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/8859b69d-a078-4697-ab65-8697390a8ca9-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/890e427b-a956-4d2f-b0d8-335989686f07-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/895b072f-6e8c-4bd8-b105-07684c10b46d-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/8a207ab8-aff3-479e-b20f-44149ae51807-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/8bbc210c-e7f8-4535-be97-78706a97768d-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/8efabba4-d51f-4bfa-8960-e20f4f1bd83a-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/9159ade7-8c88-4380-a5bd-e15296822554-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/93af4092-52c9-4073-a970-5e6feb076d4f-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/93b99485-eba8-4ce8-be0b-b82738214e6d-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/93c695fd-3e99-4fe5-8f0d-2f14fd467d64-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/94d9e0ff-d5eb-43e3-aa11-700fef17ba47-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/96af2c2a-73fc-4756-85f8-5647c908201c-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/971ae972-4fa4-4339-b75c-e121d15e5e45-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/98614295-2c3e-4252-8f66-8286bbd793d4-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/99e44b0b-93e4-4eab-8a25-ac68489dbbef-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/9a1cf05e-b5ad-4b80-9a7f-672e7ecf3738-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/9a8f15ab-d026-42e8-9c68-07c4ee36e596-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/9bec1247-963f-49c5-9981-a89cfdfc65cf-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/9d96fa8f-9005-4468-b8dd-6e713e5a92f1-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/9e5b8d00-ef8b-43d5-9604-c91b1a2b40fe-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/9f345860-3ffd-4354-b771-c7172440245b-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/a0d08fd8-db93-4b22-8edf-36bc00780b9d-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/a0d65610-6d2f-4c88-80d4-367030ee4011-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/a1b6a749-a1d0-4c1b-b771-a29f058b1d07-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/a2c2a02b-045a-4b09-bc31-7b25e8cd81d2-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/a3744a92-b9cb-474b-9007-693c2c4e4aa4-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/a456f4d9-dbc9-4d90-a078-9cef679ca2b2-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/a4a33ca8-946a-4045-ac22-1bc52cec39e9-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/a4e5aef8-12a8-4822-a6b0-bbfb671ecb61-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/a6ddf14d-0b90-45bc-be9a-314a1cc8c674-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/a6e26e48-505c-4fc1-84c2-a4ac00218cf1-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/a79ff509-a6fc-4f69-80ed-2bdb20e304d5-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/a7e2df22-e77e-4da7-acdc-b7583c0d5f04-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/a941d23d-4487-472a-8300-2ee409de76f5-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/aa513e44-1bdd-4c8b-b390-594b2c8db511-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/ab118195-30e2-4817-b641-9ff9c47f7d98-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/ab13aba1-3968-488f-90d1-3701353bdc7b-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/ae7054ed-d5bb-4ec5-9766-abd65e65a794-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/af10f362-1db8-4a0b-ace3-16796902af92-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/b0651d69-9db8-4718-8240-213780ae2a17-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/b0a00dd8-81a6-4b9c-9010-fb5f6806dc3c-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/b11e440d-1b41-4f20-8d30-b8402adbcf11-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/b45cbc64-be7b-40b0-8773-cac0dbd4aa4b-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/b4887e19-b189-4fed-9a96-890b4d5a409a-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/b4e95e3d-33b9-49fd-a28e-f7a508ee16ba-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/b63a2326-c197-4839-8d13-c82ceeadd52c-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/b89c2979-69e4-44b4-b0ea-d3212a5e8c28-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/bb0af81b-c3bc-43dd-921f-09308594042f-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/bbf48714-9cb0-4224-be88-3355ec56de6d-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/bcf5dd50-560e-40e5-92ca-6fad4506543d-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/bd18ac3b-3fc5-43b3-839e-bba603c89730-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/bdc62e4a-b555-4ea4-8609-de9d0e85fab8-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/c00431cc-f1e3-4dda-ac1f-3ce3a976dedb-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/c0d98337-c896-4d7e-9d62-d37f0f282367-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/c110d147-59a8-4096-a9ff-79c4328a883c-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/c132491d-e5ec-4e76-be54-f3bb0e0925df-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/c19d52e4-b238-4bb0-8546-dd2aa5874386-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/c3e657fa-54e4-40fd-abfb-0175ebb1f142-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/c411b904-f192-4b76-aeb1-390848e51ecf-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/c436e1c5-d476-40ce-83c2-bd289b8161e0-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/c5fecca7-96f3-4fc8-902b-deba45f69634-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/c7036ab5-7559-4a00-b718-15d61558999d-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/c75b3072-d6f0-48d1-bf86-58034a54a93e-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/c874bf06-1e65-4d0f-af46-6ca49f0a9929-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/c88f800d-322c-4642-97d7-2168bb6e8798-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/ca53ec77-da56-49d4-ba23-b731f797ab9e-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/cb71d7ce-1a9c-496b-9fe3-d7ca6957df1b-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/cbbf3f3e-e8a7-4cc1-adf3-1d24188d7bb1-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/cbee9729-28e1-4215-839e-072b4c3e04d1-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/cc4010bb-d69e-4231-b4ff-de34b1881108-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/cd28f15e-5215-4367-9a07-5890de047caa-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/d114a868-40c5-45fb-8cf1-bfb2979e14fd-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/d125cf14-4cd7-4124-85c1-524fd0916704-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/d16cbf16-96d5-4e53-935d-7e070e8fae96-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/d1781920-3c5f-411e-a6d8-fd050a0f50a9-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/d1d6cb87-bd91-41a2-b164-44821c06d755-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/d20134d1-b6ff-45a5-8a7d-b4ee648e16e3-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/d297cbf9-f686-441b-bb52-28e5e183a361-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/d386907e-0ac5-4423-8068-b921e799d081-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/d5935381-cf74-4106-9dc0-67705bce360e-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/d6d5a6ae-9ba8-44be-8902-0ef878d2adf5-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/d88e4927-762b-4d65-bc75-5cbdab8412db-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/d90404fc-d033-4e80-8e8b-a7fa3851b60d-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/d979bd9e-3266-4197-b694-809d6155e320-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/db994021-0262-4416-84fd-a8a453bf38b2-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/dbcfddd9-d793-470a-a81a-f58b36a1b6d7-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/dcc791a3-807d-4200-acd9-2065b93d86b0-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/df4c11c9-1f52-4343-8e99-ed93297e9cc6-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/df8c39b5-4ddf-4ab5-bb70-a4195bcac95e-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/e33977b0-976e-4050-b372-e8842f75d655-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/e785fe67-5950-4475-8ebd-7017098719bf-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/e804019b-fe18-4e84-b1aa-837d18f49fd7-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/e998ee8a-7577-4396-871b-ab3a80c3de73-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/ea70bb86-6874-4ebd-ab2e-30f3381baf6f-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/eabbd878-0f14-423a-813c-dafcff24e7cd-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/ec930a92-4b35-4355-8276-0cd4c09e7507-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/ed78bc6d-2490-4657-8922-a167f0eaa520-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/edff82ee-a6db-4cac-ab40-f010b19e61a9-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/ee6ccf47-2129-4d3a-b972-7b5822fd3d58-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/efcee832-1250-4010-a126-b809a1d73bb4-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/f1ccef7f-751f-4ec1-9337-8d11706a24af-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/f2efac62-e3b9-449f-8055-c26d394ce322-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/f3656674-0453-432f-a7ea-09ce7c82eb59-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/f4064daa-c82b-4920-9c01-8abc40e165e7-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/f46064b2-856c-43aa-9b2c-764c98a66f10-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/f4a26a99-e022-4f10-ab89-60efbfecff47-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/f57321c5-cc3c-4e6c-91af-36d1fc6f57ef-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/f652d99e-254a-445f-8131-444638077caa-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/f66d3323-bdc5-435d-969f-d9d3b88eb266-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/f6e71843-9611-4554-b809-acf769f0a0c2-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/f8f2793a-64a4-4ee2-b71b-6817c3d20e8a-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/f9468b6a-a75c-4e26-99ec-f9e5fe6e3538-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/fbcc56f2-0ffd-4774-8c59-d74c665ec74d-container.json" afterPath="" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="run_all.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/run_all.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="15" lean-forward="true" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/common/config.py" />
+        <option value="$PROJECT_DIR$/test_cases/test_speech.py" />
+        <option value="$PROJECT_DIR$/run_all.py" />
+        <option value="$PROJECT_DIR$/test_cases/test_regulations.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="44" />
+    <option name="y" value="27" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="regulations_speech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="regulations_speech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../dailyreportApi" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\wmxia\PycharmProjects\regulations_speech" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.run_all">
+    <configuration default="false" name="test_speech" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_cases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="regulations_speech" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_cases/test_speech.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_regulations" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_cases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="regulations_speech" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_cases/test_regulations.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="run_all" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="regulations_speech" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_all.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="regulations_speech" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="regulations_speech" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="regulations_speech" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="regulations_speech" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Python.test_speech" />
+      <item index="1" class="java.lang.String" itemvalue="Python.test_regulations" />
+      <item index="2" class="java.lang.String" itemvalue="Python.run_all" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Python.run_all" />
+        <item index="1" class="java.lang.String" itemvalue="Python.test_regulations" />
+        <item index="2" class="java.lang.String" itemvalue="Python.test_speech" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ad60eda-aab6-4a0c-8dbf-ceed73bbbdc1" name="Default" comment="" />
+      <created>1592209898660</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592209898660</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="44" y="27" width="1936" height="1056" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12153518" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5292842" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3997833" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test_cases/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="27" lean-forward="false" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_cases/test_speech.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-546">
+          <caret line="18" column="25" lean-forward="false" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_cases/test_regulations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="33" lean-forward="false" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="5" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_all.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="15" lean-forward="true" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
